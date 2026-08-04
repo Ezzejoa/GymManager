@@ -1,0 +1,21 @@
+# Datos privados del gimnasio
+data/*
+!data/.gitkeep
+socios.json
+*.csv
+
+# Credenciales y variables de entorno
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editores y sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
